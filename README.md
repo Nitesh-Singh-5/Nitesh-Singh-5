@@ -4,11 +4,12 @@
 
 **Talking about Personal Stuffs:**
 <hr>
-- 👨🏽‍💻 I’m currently working on something cool :wink:; <br>
-- 🌱 I’m currently learning react.js; <br>
-- 💬 Ask me about anything, I am happy to help;<br>
-- 📫 How to reach me: <a href="https://www.instagram.com/btw_im_nitesh/">@btw_im_nitesh</a>; <br>
+- 👨🏽‍💻 I’m currently working on something Django <br>
+- 🌱 I’m currently learning react.js <br>
+- 💬 Ask me about anything, I am happy to help<br>
+- 👨 Pronouns: he/him<br>
 - ⚡ Fun fact: ... I am half finished<br>
+
 <br><br>
 
 **Languages and Tools:**  
