@@ -1,16 +1,16 @@
 ### Hello folks <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-
+<br><br>
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="300" />
 
 **Talking about Personal Stuffs:**
 <hr>
-- 👨🏽‍💻 I’m currently working on something cool :wink:;
-- 🌱 I’m currently learning react.js; 
-- 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [@btw_im_nitesh](https://www.instagram.com/btw_im_nitesh/)
-- ⚡ Fun fact: ... I am half finished
-
+- 👨🏽‍💻 I’m currently working on something cool :wink:; <br>
+- 🌱 I’m currently learning react.js; <br>
+- 💬 Ask me about anything, I am happy to help;<br>
+- 📫 How to reach me: [@btw_im_nitesh](https://www.instagram.com/btw_im_nitesh/)<br>
+- ⚡ Fun fact: ... I am half finished<br>
+<br><br>
 
 **Languages and Tools:**  
 <hr>
@@ -24,7 +24,7 @@
 <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="60" src="https://res.cloudinary.com/practicaldev/image/fetch/s--K2q0A5SX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/2elgd5zp07wkeilkna63.png"></code>
-
+<br><br>
 
 **How to reach me**
 <hr>
