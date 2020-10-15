@@ -10,7 +10,7 @@
 - 👨 Pronouns: he/him<br>
 - ⚡ Fun fact: I am half finished<br>
 
-<br><br>
+<br>
 
 **Languages and Tools:**  
 <hr>
