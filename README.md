@@ -2,6 +2,7 @@
 <br>
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="460" height="320" />
 <br>
+
 **Talking about Personal Stuffs:**
 <hr>
 - 👨🏽‍💻 I’m currently working on Django <br>
