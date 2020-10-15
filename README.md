@@ -1,14 +1,14 @@
 ### Hello folks <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <br>
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="460" height="320" />
-
+<br>
 **Talking about Personal Stuffs:**
 <hr>
-- 👨🏽‍💻 I’m currently working on something Django <br>
+- 👨🏽‍💻 I’m currently working on Django <br>
 - 🌱 I’m currently learning react.js <br>
 - 💬 Ask me about anything, I am happy to help<br>
 - 👨 Pronouns: he/him<br>
-- ⚡ Fun fact: ... I am half finished<br>
+- ⚡ Fun fact: I am half finished<br>
 
 <br><br>
 
