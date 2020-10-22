@@ -3,7 +3,7 @@
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="460" height="320" />
 <br>
 
-**Talking about Personal Stuffs:**
+**Talking about Personal Stuffs :**
 <hr>
 - 👨🏽‍💻 I’m currently working on Django <br>
 - 🌱 I’m currently learning react.js <br>
@@ -13,7 +13,7 @@
 
 <br>
 
-**Languages and Tools:**  
+**Languages and Tools :**  
 <hr>
 <code><img height="60" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/c/c.png"></code>
 <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
@@ -28,7 +28,7 @@
 <code><img height="60" src="https://res.cloudinary.com/practicaldev/image/fetch/s--K2q0A5SX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/2elgd5zp07wkeilkna63.png"></code>
 <br><br>
 
-**How to reach me**
+**How to reach me :**
 <hr>
 
 [<img src="https://img.icons8.com/bubbles/50/000000/gmail.png"/>](mailto:ns98738698@gmail.com)
