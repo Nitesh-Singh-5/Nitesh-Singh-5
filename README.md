@@ -7,8 +7,8 @@
 
 **Talking about Personal Stuffs :**
 <hr>
-- 👨🏽‍💻 I’m currently working on Django and React <br>
-- 🌱 I’m currently learning React.js <br>
+- 👨🏽‍💻 I’m currently working on Django and React.js <br>
+- 🌱 I’m currently learning React <br>
 - 💬 Ask me about anything, I am happy to help<br>
 - 👨 Pronouns: he/him<br>
 - ⚡ Fun fact: I am half finished<br>
