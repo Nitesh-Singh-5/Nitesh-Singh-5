@@ -28,4 +28,4 @@
 [<img target="_blank" src="https://img.icons8.com/bubbles/50/000000/github.png">](https://www.github.com/Nitesh-singh-5/)
 [<img target="_blank" src="https://img.icons8.com/bubbles/50/000000/instagram-new.png"/>](https://www.instagram.com/btw_im_nitesh/)
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nitesh-singh-5&" alt="nitesh-singh-5" /></p>
+
