@@ -1,7 +1,7 @@
 <h1 align="center">Hi there👋, it's me Nitesh</h1>
 <h3 align="center">A self-motivated tech enthusiast pursuing Bachelors in Computer Science 🎓 from Noida Institute of Engineering and Technology 🏛.</h3>
 
-![Profile views](https://gpvc.arturio.dev/nitesh-singh-5) 
+![](https://komarev.com/ghpvc/?username=nitesh-singh-5)
 <br>
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="460" height="320" />
 <br>
