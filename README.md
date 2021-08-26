@@ -61,5 +61,5 @@
 <hr>
 
 
-<img align="right" alt="GIF" src="https://github.com/halfrost/Nitesh-Singh-5/blob/master/icons/header_.png" />
+<img align="right" alt="GIF" src="https://github.com/Nitesh-Singh-5/Nitesh-Singh-5/blob/main/icons/header_.png" />
 <br>
