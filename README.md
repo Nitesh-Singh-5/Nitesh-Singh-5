@@ -4,7 +4,7 @@
 ![Visitor Count](https://profile-counter.glitch.me/{Nitesh-Singh-5}/count.svg)
 <br>
 
-<p align="center">I'm currently a Pre-final year student pursuing my Bachelor of Technology in Computer Science from NIET (Gr. Noida). I'm passionate about Full stack web & app development. You can also find me interested in machine Learning.
+<p align="center">I'm currently a Final year student pursuing my Bachelor of Technology in Computer Science from NIET (Gr. Noida). I'm passionate about Full stack web & app development. You can also find me interested in machine Learning.
 <!--   I started a programming club in my college, @CS-Hunt. You should definitely check it out. -->
 </p>
 
