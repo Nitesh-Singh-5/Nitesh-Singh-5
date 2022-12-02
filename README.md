@@ -55,7 +55,7 @@
   <br><br><br><br><br><br><br><br><br>
   <div align=center>
     <a href="https://github.com/Nitesh-Singh-5/github-readme-stats">
-      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nitesh-Singh-5&theme=react" />
+      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nitesh-Singh-5&hide=html&theme=react" />
     </a>
   </div>
   <br>
